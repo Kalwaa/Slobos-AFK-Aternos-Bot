@@ -8,11 +8,11 @@
   "server": {
     "ip": "sorasmp.falixsrv.me",
     "port": 24644,
-    "version": "",
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -27,18 +27,16 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I am an AFK Bot"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 10000,
     "max-reconnect-delay": 120000
   },
   "movement": {
