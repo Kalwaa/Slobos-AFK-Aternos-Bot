@@ -8,7 +8,7 @@
   "server": {
     "ip": "sorasmp.falixsrv.me",
     "port": 24644,
-    "version": " ",
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
@@ -39,7 +39,7 @@
     "auto-reconnect-delay": 10000,
     "max-reconnect-delay": 120000
   },
-"movement": {
+  "movement": {
     "enabled": false,
     "circle-walk": {
       "enabled": false,
@@ -52,26 +52,6 @@
     },
     "random-jump": {
       "enabled": false,
-      "interval": 10000
-    }
-  },
-    },
-    "look-around": {
-      "enabled": false,
-      "interval": 5000
-    },
-    "random-jump": {
-      "enabled": false,
-      "interval": 10000
-    }
-  },
-    },
-    "look-around": {
-      "enabled": true,
-      "interval": 5000
-    },
-    "random-jump": {
-      "enabled": true,
       "interval": 10000
     }
   },
